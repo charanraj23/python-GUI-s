@@ -1,5 +1,5 @@
 #Taking input from user
-data='Joshna Rani'
+data='Joshhhhh'
 # conversion Chart
 la="abcdefghijklmnopqrstuvwxyz"
 ua="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
